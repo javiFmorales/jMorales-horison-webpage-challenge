@@ -4,7 +4,7 @@ The original HTML and CSS files have been restructured to improve accesibility.
 
 A list of requirements was provided to meet the desired structure of the code, to accomplish this the following changes were made:
 
-  The title of the website was changed to "www.horison-social-solutions.com".
+  The title of the website was changed to www.horison-social-solutions.com.
 
   Spacing and indentation was added for better readability, also semantic elements were added to make the code easy to read and easier to navigate through, some of those elements include HEADER, MAIN, SECTION, FIGURE and FOOTER. 
 
